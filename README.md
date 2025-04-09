@@ -14,11 +14,9 @@
 
 
 ## 學生作品集
-### 111學年度
 - **11126103 黃昱婷** - [GitHub: EricaHwan](https://github.com/EricaHwan)
   - 伺服馬達控制：[Arduino_Servo](https://github.com/EricaHwan/Arduino_Servo)
 
-### 112學年度
 - **11226007 鍾宛妤** - [GitHub: wanyu11226007](https://github.com/wanyu11226007)
   - Arduino馬達控制：[arduino-motor](https://github.com/wanyu11226007/arduino-motor)
   
