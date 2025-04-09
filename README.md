@@ -40,7 +40,6 @@
   - 伺服馬達實作：[arduino-servomotor](https://github.com/bato-yeung/arduino-servomotor)
   - LED反應互動遊戲：[arduino-brainstorm](https://github.com/bato-yeung/arduino-brainstorm) [Demo影片](https://www.youtube.com/shorts/ZwI1-EiM5uY)
 
-### 113學年度
 - **11320609 張博穎** - [GitHub: BoYingZhang](https://github.com/BoYingZhang)
   - Arduino UNO實作：[arduino-uno](https://github.com/BoYingZhang/arduino-uno)
   
