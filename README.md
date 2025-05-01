@@ -19,6 +19,7 @@
   - ① 伺服馬達控制：[Arduino_Servo](https://github.com/EricaHwan/Arduino_Servo)
   - ② 生活AI助理：[Arduino_PJC](https://github.com/EricaHwan/Arduino_PJC) [Demo影片](https://youtu.be/aEzwIwxklv0)
   - ③ 線條視覺效果：[Line_Wave](https://github.com/EricaHwan/Line_Wave)
+  - ④ 月光：[moonlight](https://github.com/EricaHwan/moonlight)
 
 ### 112學年度
 - **11226007 鍾宛妤** - [GitHub: wanyu11226007](https://github.com/wanyu11226007)
@@ -40,21 +41,27 @@
 - **11226109 馮馨儀** - [GitHub: 7ennn](https://github.com/7ennn)
   - ① Arduino實作：[0320](https://github.com/7ennn/0320)
   - ② 線條視覺效果：[0410-2](https://github.com/7ennn/0410-2)
+  - ③ 線條控制練習：[0417](https://github.com/7ennn/0417)
   
 - **11226110 莫莉晴** - [GitHub: LykaXP](https://github.com/LykaXP)
   - ① 伺服馬達控制：[arduino-servo-motor-control](https://github.com/LykaXP/arduino-servo-motor-control)
   - ② 電子日本箏：[arduino-koto-prototype-v1](https://github.com/LykaXP/arduino-koto-prototype-v1) [Demo影片](https://youtube.com/shorts/yy7iB3WY0-4)
-  - ③ 星座互動視覺效果：[star-constellations-interactive-visual](https://github.com/LykaXP/star-constellations-interactive-visual) 
-  - ④ Arduino電位器控制星座：[arduino-potentiometer-star-constellations-interactive-visual](https://github.com/LykaXP/arduino-potentiometer-star-constellations-interactive-visual) [Demo影片](https://youtube.com/shorts/O3XMbY5DQyU)
+  - ③ 電子日本箏 Demo2：[Demo影片](https://youtube.com/shorts/cKOZGHS08Rw)
+  - ④ 星座互動視覺效果：[star-constellations-interactive-visual](https://github.com/LykaXP/star-constellations-interactive-visual) 
+  - ⑤ Arduino電位器控制星座：[arduino-potentiometer-star-constellations-interactive-visual](https://github.com/LykaXP/arduino-potentiometer-star-constellations-interactive-visual) [Demo影片](https://youtube.com/shorts/O3XMbY5DQyU)
+  - ⑥ Gemini AI專案 NEXUS：[gemini-project-NEXUS](https://github.com/LykaXP/gemini-project-NEXUS) [Demo影片](https://youtu.be/Wz50OUzPzEw)
   
 - **11226111 楊定雄** - [GitHub: bato-yeung](https://github.com/bato-yeung)
   - ① 伺服馬達實作：[arduino-servomotor](https://github.com/bato-yeung/arduino-servomotor)
   - ② LED反應互動遊戲：[arduino-brainstorm](https://github.com/bato-yeung/arduino-brainstorm) [Demo影片](https://www.youtube.com/shorts/ZwI1-EiM5uY)
   - ③ 線條視覺效果：[graphic-line-wave](https://github.com/bato-yeung/graphic-line-wave)
+  - ④ Arduino控制網頁：[arduino-control-html](https://github.com/bato-yeung/arduino-control-html) [Demo影片](https://youtube.com/shorts/VE97yG79B9c)
 
 ### 113學年度
 - **11320609 張博穎** - [GitHub: BoYingZhang](https://github.com/BoYingZhang)
   - ① Arduino UNO實作：[arduino-uno](https://github.com/BoYingZhang/arduino-uno)
+  - ② 波動之境：[Interaction_Design](https://github.com/BoYingZhang/Interaction_Design) [Demo影片](https://youtu.be/ZpfqbA3x808)
+  - ③ 逃出會議室：[Interaction_Design](https://github.com/BoYingZhang/Interaction_Design) [Demo影片](https://youtu.be/apmss0lTrkk)
   
 - **11326103 施亦恬** - [GitHub: Yitian1227](https://github.com/Yitian1227)
   - ① Arduino實作：[0320](https://github.com/Yitian1227/0320.git)
@@ -70,7 +77,7 @@
 - **11326109 張意玟** - [GitHub: AidenRask](https://github.com/AidenRask)
   - ① Arduino基礎實作：[Work_05](https://github.com/AidenRask/Work_05/tree/main)
   - ② 旋轉迷因貓貓：[Oiiai_Cat](https://github.com/AidenRask/Oiiai_Cat) [Demo影片](https://youtu.be/ocnU_4ZAqn4)
-  - ② 旋轉迷因貓貓：[Oiiai_Cat](https://github.com/AidenRask/Oiiai_Cat) [Demo影片](https://youtu.be/ocnU_4ZAqn4)
+  - ③ 線：[Demo影片](https://youtu.be/FDnBEzJcj8I)
 
 ## 參考資源
 - Arduino官方網站：[https://www.arduino.cc/](https://www.arduino.cc/)
@@ -85,4 +92,4 @@
 
 *課程內容可能因應實際需求調整，請以課堂通知為準。*
 *版本：v1.0.1*
-*最後更新日期：2025年4月22日*
+*最後更新日期：2025年5月2日*
